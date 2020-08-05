@@ -1,0 +1,11 @@
+.videoContainer {
+  display: flex;
+  flex-direction: column;
+  margin-right: 100px;
+  color: white;
+  justify-content: space-between;
+}
+
+.videoContainer h2{
+  color: rgb(61, 63, 156);
+}
