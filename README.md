@@ -42,4 +42,18 @@ Run the client. This by default will run on port 8081
 npm start
 ```
 
+## Usage
+
+As initial screen the application will show a public section. To enter the Chat you must:
+
+1.- Register a User
+
+2.- Login with the newly created credentials
+
+3.- Click on the Chat menu
+
+4.- Indicate the room you want to access. You can indicate any name. It is important to remember this name since with this you can interact with more users and retrieve previous conversations.
+
+5.- Test the Chat
+
 
